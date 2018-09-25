@@ -31,5 +31,7 @@ Linear System Analysis
 Computational Analysis for Structural Analysis  
 Elements of Software Design
 
-### Academic Expereince
-
+### Academic Expereince  
+[Introduction to Computer Programming Final Project](/AcademicExperience/COE301)  
+[Introduction to Scientific Programming Final Project](/AcademicExperience/SDS322)  
+[Engineering Graphics and Design Reverse Engineering Project](/AcademicExperience/ME302)  
