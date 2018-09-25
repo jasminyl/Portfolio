@@ -4,8 +4,8 @@
 The University of Texas at Austin  
 Major: [Computational Engineering](http://www.ae.utexas.edu/undergraduate/computational-undergrad-program)  
 Certificate: Elements of Computing  
-Prospective Graduation: May 2020
-Resume  
+Prospective Graduation: May 2020  
+[Resume](/documents/Resume.pdf)    
 
 ### Academic Coursework: 
 
