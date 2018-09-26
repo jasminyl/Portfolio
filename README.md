@@ -10,7 +10,7 @@ Certificate: Elements of Computing
 
 ## Academic Coursework: 
 
-###Completed Technical Courses:  
+### Completed Technical Courses:  
 
 Engineering Physics: Mechanics, Statics, Dynamics, Solids  
 Introduction to Computer Programming - MATLAB   
@@ -19,7 +19,7 @@ Calculas I, II & III
 Differential Equations and Linear Algebra  
 Introduction to Engineering Graphics and Design - SolidWorks  
 
-###Currently Enrolled Courses (Fall 2018):  
+### Currently Enrolled Courses (Fall 2018):  
 
 Engineering Physics: Electricity & Magnatism  
 Probability  
@@ -27,7 +27,7 @@ Elements of Computers and Programming - Python
 Engineering Computation - MATLAB  
 Low-Speed Aerodynamics  
 
-###Prospective Courses for Spring 2019:  
+### Prospective Courses for Spring 2019:  
 
 Introduction to Computational Fluid Dynamics  
 Software Engineering & Design  
