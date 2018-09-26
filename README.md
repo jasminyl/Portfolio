@@ -5,7 +5,7 @@
 ## Education  
 The University of Texas at Austin - May 2020  
 Major: [Computational Engineering](http://www.ae.utexas.edu/undergraduate/computational-undergrad-program)  
-Certificate: Elements of Computing 
+Certificate: Elements of Computing  
 [Resume](/documents/Resume.pdf)    
 
 ## Academic Coursework: 
