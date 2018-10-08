@@ -53,4 +53,4 @@ Elements of Software Design
 ### Engineering Communication
 [Independent Emotional Intelligence Report](/AcademicExperience/ASE333T/Emotional_Intelligence_Report.pdf): One of the main topics discussed in this course was Emotional Intelligence (EQ). For this independent study, I choose to implement a self-intervention determine if guided meditation improves EQ.   
 
-[An Ethical Analytic Comparison Between Restoration and Improvement](/AcademicExperience/ASE333T/GC_ FinalReport.pdf): A semester-long group research project discussing the ethics restoration and improvement methods in maintaining urban infrastructure.  
+[Engineering Global Challenges Ethical Report](/AcademicExperience/ASE333T): A semester-long group research project discussing the ethics restoration and improvement methods in maintaining urban infrastructure.  
