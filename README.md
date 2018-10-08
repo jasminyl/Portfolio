@@ -51,6 +51,6 @@ Elements of Software Design
 [Reverse Engineering Project](/AcademicExperience/ME302/FinalProject.pdf): This semester long group project was a reverse engineering of a Kuhn Rikon Ratchet Grinder. It consisted of an object dissection and mechanical subsystem analyzation, part sketching and CAD modeling in SolidWorks and proposals for future improvements.  
 
 ### Engineering Communication
-[Independent Emotional Intelligence Report](/AcademicExperience/Emotional_Intelligence_Report.pdf): One of the main topics discussed in this course was Emotional Intelligence (EQ). For this independent study, I choose to implement a self-intervention determine if guided meditation improves EQ.   
+[Independent Emotional Intelligence Report](/AcademicExperience/ASE333T/Emotional_Intelligence_Report.pdf): One of the main topics discussed in this course was Emotional Intelligence (EQ). For this independent study, I choose to implement a self-intervention determine if guided meditation improves EQ.   
 
-[An Ethical Analytic Comparison Between Restoration and Improvement](/AcademicExperience/ASE333T/GC_FinalReport.pdf): A semester-long group research project discussing the ethics restoration and improvement methods in maintaining urban infrastructure.  
+[An Ethical Analytic Comparison Between Restoration and Improvement](/AcademicExperience/ASE333T/GC_ FinalReport.pdf): A semester-long group research project discussing the ethics restoration and improvement methods in maintaining urban infrastructure.  
