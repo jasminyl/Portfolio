@@ -14,9 +14,9 @@ Certificate: [Elements of Computing](https://www.cs.utexas.edu/undergraduate-pro
 
 ### Completed Technical Courses:  
 
-Engineering Physics: Mechanics
-Statics
-Dynamics
+Engineering Physics: Mechanics  
+Statics  
+Dynamics  
 Solids  
 Introduction to Computer Programming - MATLAB   
 Introduction to Scientific Programming - C++ & Fortran  
