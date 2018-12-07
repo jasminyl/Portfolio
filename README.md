@@ -6,7 +6,7 @@ email: jasminlim@austin.rr.com
 ## Education  
 The University of Texas at Austin - May 2020  
 Major: [Computational Engineering](http://www.ae.utexas.edu/undergraduate/computational-undergrad-program)  
-Certificate: Elements of Computing  
+Certificate: [Elements of Computing](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing)  
 
 [Resume](/documents/Resume.pdf)    
 
@@ -27,7 +27,7 @@ Engineering Communication
 Engineering Physics: Electricity & Magnetism  
 Probability  
 Elements of Computers and Programming - Python  
-Engineering Computation - MATLAB  
+Engineering Computation - MATLAB, Numerical Methods  
 Low-Speed Aerodynamics  
 
 ### Prospective Courses for Spring 2019:  
@@ -35,14 +35,13 @@ Low-Speed Aerodynamics
 Introduction to Computational Fluid Dynamics  
 Software Engineering & Design  
 Linear System Analysis  
-Computational Analysis for Structural Analysis  
-Elements of Software Design
+Computational Methods for Structural Analysis  
+Matrices and Matrix calculations  
 
 ## Academic Experience  
 
 ### Introduction to Computer Programming  
 [Final Project](/AcademicExperience/COE301): The purpose of this project was to visualize a set of [data](/AcademicExperience/COE301/data/cells.mat) that represented the spread of a rat's brain tumor over the course of several days.  
-
 
 ### Introduction to Scientific Programming
 [Final Project](/AcademicExperience/SDS322/SDS322_FinalProject.pdf): The goal of this project was to create a code that simulated the spread of a disease throughout a given population.  
