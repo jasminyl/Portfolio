@@ -10,36 +10,36 @@ Certificate: [Elements of Computing](https://www.cs.utexas.edu/undergraduate-pro
 
 [Resume](/documents/Resume.pdf)    
 
-## Academic Coursework: 
+## Academic Coursework:
 
 ### Completed Technical Courses:  
 
+Introduction to Computer Programming - MATLAB   
+Introduction to Scientific Programming - C++ & Fortran  
+Elements of Computers and Programming - Python  
+Engineering Computation - MATLAB, Numerical Methods  
+
+Calculus I, II & III  
+Differential Equations and Linear Algebra  
+Probability  
+
+Low-Speed Aerodynamics  
+Applied Thermodynamics  
+Engineering Physics: Electricity & Magnetism  
 Engineering Physics: Mechanics  
+Engineering Graphics and Design - SolidWorks  
 Statics  
 Dynamics  
 Solids  
-Introduction to Computer Programming - MATLAB   
-Introduction to Scientific Programming - C++ & Fortran  
-Calculus I, II & III  
-Differential Equations and Linear Algebra  
-Introduction to Engineering Graphics and Design - SolidWorks  
-Engineering Communication
+Engineering Communication  
 
-### Currently Enrolled Courses (Fall 2018):  
+### Currently Enrolled Courses for Spring 2019:  
 
-Engineering Physics: Electricity & Magnetism  
-Probability  
-Elements of Computers and Programming - Python  
-Engineering Computation - MATLAB, Numerical Methods  
-Low-Speed Aerodynamics  
-
-### Prospective Courses for Spring 2019:  
-
-Introduction to Computational Fluid Dynamics  
-Software Engineering & Design  
+Introduction to Computational Fluid Dynamics - OpenFOAM  
+Software Engineering & Design - Python  
 Linear System Analysis  
-Computational Methods for Structural Analysis  
-Matrices and Matrix calculations  
+Computational Methods for Structural Analysis - Python & MATLAB  
+Elements of Software Design - Python   
 
 ## Academic Experience  
 
