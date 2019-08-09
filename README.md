@@ -18,6 +18,9 @@ Introduction to Computer Programming - MATLAB
 Introduction to Scientific Programming - C++ & Fortran  
 Elements of Computers and Programming - Python  
 Engineering Computation - MATLAB, Numerical Methods  
+Computational Methods for Structural Analysis - MATLAB, Python  
+Introduction to Computational Fluid Dynamics - MATLAB, OpenFOAM, ParaFOAM  
+Software Engineering and Design, Element of Software Design - Python, JSON, SQL  
 
 Calculus I, II & III  
 Differential Equations and Linear Algebra  
@@ -25,6 +28,7 @@ Probability
 
 Low-Speed Aerodynamics  
 Applied Thermodynamics  
+Linear System Analysis  
 Engineering Physics: Electricity & Magnetism  
 Engineering Physics: Mechanics  
 Engineering Graphics and Design - SolidWorks  
@@ -33,13 +37,13 @@ Dynamics
 Solids  
 Engineering Communication  
 
-### Currently Enrolled Courses for Spring 2019:  
+### Currently Enrolled Courses for Fall 2019:  
 
-Introduction to Computational Fluid Dynamics - OpenFOAM  
-Software Engineering & Design - Python  
-Linear System Analysis  
-Computational Methods for Structural Analysis - Python & MATLAB  
-Elements of Software Design - Python   
+Matricies and Matrix Calculations  
+Applied Regression Analysis  
+Software Engineering I   
+Advanced Scientific Engineering   
+Modeling Flow and Transport in Porous Media  
 
 ## Academic Experience  
 
